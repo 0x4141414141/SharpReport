@@ -1,0 +1,9 @@
+3/23/2020 11:10:07 AM
+Running in Mode1
+Domain Name is: windomain.local
+Domain Administrators
+\item Administrator
+Domain Administrators
+\item vagrant
+Domain Administrators
+\item krbtgt

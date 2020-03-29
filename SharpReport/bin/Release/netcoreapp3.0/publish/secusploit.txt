@@ -1,0 +1,18 @@
+3/29/2020 5:27:15 PM
+Running in Mode1
+Domain Name is: windomain.local
+Domain Administrators:
+\item Administrator
+[+] Found session on DC for: Administrator
+[+] Found session on WIN10 for: Administrator
+\item vagrant
+[+] Found session on DC for: vagrant
+[+] Found session on DC for: vagrant
+Domain Controllers:
+\item \textbf{DC}
+List of logged in Users on DC:
+\itemAdministrator
+\itemvagrant
+\itemvagrant
+Todo: Check if SMB-Signing enabled on the host:
+nmap -p137,139,445 --script smb-security-mode DC
